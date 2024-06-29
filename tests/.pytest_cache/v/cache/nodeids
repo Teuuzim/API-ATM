@@ -1,0 +1,8 @@
+[
+  "test_saque.py::test_endpoint_should_return_200_when_valid_value_request",
+  "test_saque.py::test_endpoint_should_return_400_when_receive_float_value",
+  "test_saque.py::test_endpoint_should_return_400_when_receive_negative_value",
+  "test_saque.py::test_endpoint_should_return_400_when_receive_value_one",
+  "test_saque.py::test_endpoint_should_return_serialized_data_when_valid_value_request",
+  "test_saque.py::test_saque"
+]

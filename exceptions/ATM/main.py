@@ -1,0 +1,2 @@
+class InvalidWithdraw(BaseException):
+    pass
